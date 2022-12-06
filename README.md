@@ -1,1 +1,1 @@
-# Datorium-company-06
+# Datorium-company-calculator
